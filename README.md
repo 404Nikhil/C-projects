@@ -1,2 +1,2 @@
 # C
-knitr::include_graphics(https://courses.cs.washington.edu/courses/cse351/14sp/sections/1/Cheatsheet-c.pdf)
+knitr::include_graphics(![image](https://user-images.githubusercontent.com/83774380/184494201-8e110934-3e4a-45b0-9840-18b892dc666b.png))
