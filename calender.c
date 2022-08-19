@@ -340,7 +340,7 @@ void AddNote(){
     printf("Press any key............");
     getch();
     fclose(fp);
-}
+}                   // L moment
 
 void showNote(int mm){
     FILE *fp;
